@@ -22,12 +22,12 @@ function App() {
               </div>
 
               <div className="info-block">
-                <p className="completed-by">Completado por</p>
+                <p className="completed-by">Certificado de</p>
                 <h1 className="name">RIVAS BETANCOURT<br />CRISTIAN PAUL</h1>
                 <p className="meta">Fecha: 25-02-2026</p>
                 <p className="meta bold">Con una duración de 3 horas</p>
                 <p className="desc">
-                  Se ha verificado la participación de Rivas Betancourt Cristian Paul
+                  Por la participación de Rivas Betancourt Cristian Paul
                   en el curso de <strong>GESTIÓN DE TALENTO HUMANO</strong>, realizado
                   el miércoles 25 de febrero de 2026.
                 </p>
