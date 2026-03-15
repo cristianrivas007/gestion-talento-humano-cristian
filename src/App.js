@@ -29,7 +29,7 @@ function App() {
                 <p className="desc">
                   Por la participación de Rivas Betancourt Cristian Paul
                   en el curso de <strong>GESTIÓN DE TALENTO HUMANO</strong>, realizado
-                  el miércoles 25 de febrero de 2026.
+                  el 25 de febrero de 2026.
                 </p>
               </div>
             </div>
